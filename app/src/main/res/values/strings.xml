@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="item_practice_btn">要点</string>
+    <string name="activity_start_tv_title">业精于勤而荒于嬉，行成于思而毁于随</string>
+    <string name="activity_start_author">作者：007</string>
+</resources>
